@@ -42,8 +42,6 @@ Explanation 0
 
 The first character of string  is a. Because the given criteria stipulate that we print A any time the first character is in , we return A as our answer.
 
-
-
 */
 
 function getLetter(s) {
